@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.60594944358229,
+          12.9357443
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 313393159,
+        "osm_key": "building",
+        "osm_value": "university",
+        "type": "house",
+        "postcode": "560029",
+        "countrycode": "IN",
+        "name": "Christ University Audi Block",
+        "country": "India",
+        "city": "Bangalore",
+        "district": "Koramangala",
+        "locality": "Jogi Colony",
+        "street": "Hosur Road",
+        "state": "Karnataka",
+        "county": "Bangalore South",
+        "extent": [
+          77.605568,
+          12.9362518,
+          77.6062397,
+          12.9349578
+        ]
+      },
+      "id": "M2NzQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          77.606446,
+          12.932741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_type": "R",
+        "osm_id": 15517664,
+        "osm_key": "building",
+        "osm_value": "university",
+        "type": "house",
+        "postcode": "560029",
+        "countrycode": "IN",
+        "name": "Christ University Block 2",
+        "country": "India",
+        "locality": "Sadgunte Palya",
+        "street": "5th Cross Road",
+        "state": "Karnataka",
+        "county": "Bangalore South",
+        "extent": [
+          77.6061665,
+          12.9331934,
+          77.6066387,
+          12.9324326
+        ]
+      },
+      "id": "UwOTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          77.606757,
+          12.933965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 2322747198,
+        "osm_key": "building",
+        "osm_value": "school",
+        "type": "house",
+        "postcode": "560029",
+        "countrycode": "IN",
+        "name": "Christ University Block I",
+        "country": "India",
+        "locality": "Sadgunte Palya",
+        "street": "Christ School Road",
+        "state": "Karnataka",
+        "county": "Bangalore South"
+      },
+      "id": "M4MzU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.60579675,
+          12.93456615
+        ]
+      },
+      "properties": {
+        "osm_type": "W",
+        "osm_id": 223373723,
+        "osm_key": "building",
+        "osm_value": "university",
+        "type": "house",
+        "postcode": "560029",
+        "countrycode": "IN",
+        "name": "Christ University Central Block",
+        "country": "India",
+        "locality": "Sadgunte Palya",
+        "street": "3rd Cross Road",
+        "state": "Karnataka",
+        "county": "Bangalore South",
+        "extent": [
+          77.6054772,
+          12.9349189,
+          77.6061163,
+          12.9342134
+        ]
+      },
+      "id": "QxNDU"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6067313,
+          12.934646
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 2322770073,
+        "osm_key": "amenity",
+        "osm_value": "food_court",
+        "type": "house",
+        "postcode": "560029",
+        "countrycode": "IN",
+        "name": "Christ University Food Court",
+        "country": "India",
+        "locality": "Sadgunte Palya",
+        "street": "Christ School Road",
+        "state": "Karnataka",
+        "county": "Bangalore South"
+      },
+      "id": "kwMDc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          77.60574,
+          12.934414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 1346450614,
+        "osm_key": "amenity",
+        "osm_value": "library",
+        "type": "house",
+        "postcode": "560029",
+        "countrycode": "IN",
+        "name": "Christ University PG Library",
+        "country": "India",
+        "locality": "Sadgunte Palya",
+        "street": "Dr. M H Marigowda Road",
+        "state": "Karnataka",
+        "county": "Bangalore South"
+      },
+      "id": "UyOTg"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          77.606467,
+          12.933498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Christ University UG LIbrary"
+      },
+      "id": "YwNzY"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6056306,
+          12.934076
+        ]
+      },
+      "properties": {
+        "osm_type": "N",
+        "osm_id": 7528069001,
+        "osm_key": "amenity",
+        "osm_value": "restaurant",
+        "type": "house",
+        "postcode": "560029",
+        "countrycode": "IN",
+        "name": "Just Bake",
+        "country": "India",
+        "locality": "Sadgunte Palya",
+        "street": "3rd Cross Road",
+        "state": "Karnataka",
+        "county": "Bangalore South"
+      },
+      "id": "U2MjA"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            77.606204,
+            12.935854
+          ],
+          [
+            77.60633,
+            12.935833
+          ],
+          [
+            77.606196,
+            12.934871
+          ],
+          [
+            77.60618,
+            12.934476
+          ],
+          [
+            77.606711,
+            12.934468
+          ],
+          [
+            77.606722,
+            12.93462
+          ],
+          [
+            77.606733,
+            12.934688
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "name": "Audi to Nandhini"
+      },
+      "id": "303QI"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            77.60621,
+            12.935849
+          ],
+          [
+            77.60633,
+            12.935833
+          ],
+          [
+            77.606193,
+            12.934871
+          ],
+          [
+            77.606177,
+            12.934405
+          ],
+          [
+            77.606054,
+            12.934413
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "name": "Audi to Central"
+      },
+      "id": "Oolpw"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              77.605941,
+              12.934979
+            ],
+            [
+              77.606075,
+              12.934957
+            ],
+            [
+              77.606191,
+              12.935486
+            ],
+            [
+              77.60614,
+              12.935496
+            ],
+            [
+              77.606247,
+              12.935988
+            ],
+            [
+              77.606183,
+              12.936003
+            ],
+            [
+              77.606212,
+              12.936173
+            ],
+            [
+              77.605802,
+              12.936254
+            ],
+            [
+              77.605566,
+              12.935046
+            ],
+            [
+              77.605941,
+              12.934979
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "name": "Audi"
+      },
+      "id": "OYsN0"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            77.606226,
+            12.935857
+          ],
+          [
+            77.60633,
+            12.935833
+          ],
+          [
+            77.606199,
+            12.934868
+          ],
+          [
+            77.606177,
+            12.934514
+          ],
+          [
+            77.606231,
+            12.934473
+          ],
+          [
+            77.606277,
+            12.934512
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {
+        "name": "Audi to BasketBallCourt"
+      },
+      "id": "bJfYE"
+    }
+  ]
+}
