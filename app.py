@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # The path to the geojson file
-GEOJSON_FILE = os.path.join(os.path.dirname(__file__), 'christ_university.geojson')
+GEOJSON_FILE = os.path.join(os.path.dirname(__file__), 'christ_university (1).geojson')
 
 def load_geojson_data():
     """Load and return GeoJSON data"""
@@ -150,3 +150,4 @@ def get_route(path_name):
 if __name__ == "__main__":
     port = int(os.environ.get('PORT', 8000))
     app.run(host='0.0.0.0', port=port)
+
